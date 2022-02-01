@@ -12,6 +12,7 @@ Test task from IT-company
 * View a list of all created notes, with the ability to see their name and part of the text inside the note
 * Ability to save notes between app sessions
 * Ability to change the text of an existing note
+* Ability to delete a selected note on the home screen
 
 #### Implementation:
 * The application was created using UIKit
@@ -32,6 +33,7 @@ Test task from IT-company
 * Просмотр списка всех созданных заметок, с возможностью видеть их название и часть текста внутри заметки
 * Возможность сохранять заметки между сеансами приложения
 * Возможность изменять текст существующей заметки
+* Возможность удаления выбранной заметки на основном экране
 
 #### Реализация:
 * Приложение создано с помощью UIKit
